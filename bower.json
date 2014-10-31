@@ -1,6 +1,6 @@
 {
   "name": "strapdown",
-  "main": ["strapdown.js","strapdown.css"]
+  "main": ["strapdown.js","strapdown.css"],
   "version": "0.0.1",
   "authors": [
     "leadwit@foxmail.com"
