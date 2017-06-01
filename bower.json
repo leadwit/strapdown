@@ -1,5 +1,5 @@
 {
-  "name": "strapdown",
+  "name": "erossignon/strapdown",
   "main": ["strapdown.js","strapdown.css"],
   "version": "0.0.1",
   "authors": [
@@ -10,7 +10,7 @@
     "markdown"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/leadwit/strapdown",
+  "homepage": "https://github.com/erossignon/strapdown",
   "ignore": [
     "**/.*",
     "node_modules",
