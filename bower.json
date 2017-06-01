@@ -1,5 +1,5 @@
 {
-  "name": "strapdown",
+  "name": "erossignon/strapdown",
   "main": ["strapdown.js","strapdown.css"],
   "version": "0.0.1",
   "authors": [
